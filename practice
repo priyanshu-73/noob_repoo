@@ -1,0 +1,6 @@
+a = float(input("enter your total bill\n"))
+print("tip suggestions are")
+print("--------------------")
+print(f"15% of tip is {a*0.15} ")
+print(f"18% of tip is {a*0.18}")
+print(f"20% of tip is {a*0.20} ")
